@@ -19,7 +19,7 @@ Repository contains notebook that describes training process of multitask NLP mo
 
 | Model version | F1 tokens (macro): | F1 cls (micro): |
 | --- | --- | --- |
-| Original model | 0.7277777777777777 | 0.9 |
+| Original model after train | 0.7277777777777777 | 0.9 |
 | Quantized model | 0.5925925925925926 | 0.9 |
 
         
